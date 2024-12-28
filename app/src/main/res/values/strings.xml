@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">menuactionbar</string>
+    <string name="about">درباره ما</string>
+    <string name="phone">تماس با ما</string>
+</resources>
